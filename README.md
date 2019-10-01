@@ -1,2 +1,2 @@
 # doge
-a simple doge repo
+a simple doge repo, Much wow, so fantastic
